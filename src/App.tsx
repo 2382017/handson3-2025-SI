@@ -13,7 +13,7 @@ function App() {
         </tr>
 
         <tr>
-          <td>2382003</td>
+          <td>2382017</td>
           <td>Raweli Naibaho</td>
           <td>Sistem Informasi</td>
           <td>2382017@unai.edu</td>
